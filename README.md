@@ -8,9 +8,6 @@ Viewspot is a browser application designed to enhance security and monitoring th
 - Interactive UI: Features a sidebar with controls for light/dark mode, auto record functionality, and the ability to take screenshots.
 - Dynamic Recording: Offers both manual and automatic recording options, saving footage directly to the camera roll for easy access.
 - Customizable Settings: Users can toggle mirror mode, adjust volume, and manage recording settings through an intuitive interface.
-  
-![ezgif com-video-to-gif-converter (4)](https://github.com/user-attachments/assets/eeb1c9bb-098f-4904-b3d0-33f75dc4ffb3)
-
 
 ## Technologies Used
 
